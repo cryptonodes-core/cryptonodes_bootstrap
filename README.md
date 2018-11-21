@@ -5,7 +5,7 @@ Latest bootstrap data block height = 211777
 
 HOW TO USE:-
 
-1) Download latest bootstrap file from https://github.com/cryptonodes-core/cryptonodes_bootstrap/releases.
+1) Download latest bootstrap file from https://github.com/cryptonodes-core/cryptonodes_bootstrap/releases
 
 2) Unzip downloaded file to same your Cryptonodes data folder.
 
