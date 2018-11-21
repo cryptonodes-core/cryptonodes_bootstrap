@@ -9,9 +9,9 @@ HOW TO USE:-
 
 2) Unzip downloaded file to same your Cryptonodes data folder.
 
-   after extracting it should be:
-	.cryptonodes/blocks
-	.cryptonodes/chainstate   
+   after extracting it should be: <p>
+	.cryptonodes/blocks <p>
+	.cryptonodes/chainstate <p>
    
 -----------------------------------------------------------------   
    
