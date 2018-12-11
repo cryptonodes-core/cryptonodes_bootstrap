@@ -1,7 +1,7 @@
 # Cryptonodes_Bootstrap
 Cryptonodes bootstrap data file to make syncing faster.
 
-Latest bootstrap data block height = 225743
+Latest bootstrap data block height = 241379
 
 HOW TO USE:-
 
